@@ -12,7 +12,7 @@ http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd">
                       value="jdbc:mysql://localhost:3306/mydb?zeroDateTimeBehavior=convertToNull&amp;serverTimezone=UTC"/>
             <property name="jakarta.persistence.jdbc.user" value="root"/>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
-            <property name="jakarta.persistence.jdbc.password" value="34965812"/>
+            <property name="jakarta.persistence.jdbc.password" value="contraseña"/>
             <!-- las siguientes propiedades utilizarlas solo en ambientes de testing -->
             <property name="hibernate.hbm2ddl.auto" value="create"/>
             <property name="hibernate.show_sql" value="true"/>
